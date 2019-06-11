@@ -1,0 +1,4 @@
+com.example.intent_implicit
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
